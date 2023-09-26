@@ -12,6 +12,7 @@
 		"attempting to load file - Hello World...",
 		"avoiding a furball",
 		"boarding a Maglev",
+		"breaking the mold",
 		"breathing through a ventilator",
 		"brewing some coffee",
 		"brewing some tea",
@@ -181,6 +182,7 @@
 		"recalculating crosshair terminators",
 		"reconfiguring C3PO",
 		"recording a VTuber video",
+		"reimagining Einstein's theory of relativity",
 		"remote conferencing",
 		"repairing a medic bot",
 		"repairing an APC",
@@ -346,6 +348,7 @@
 		"Inventor",
 		"Janitor",
 		"Licensed Hacker",
+		"Lifeweaver",
 		"Maintenance Droid",
 		"Maintenance Worker",
 		"Man-in-Suit",
@@ -404,7 +407,8 @@
 		"VTuber",
 		"Wage Slave",
 		"Wanderer",
-		"Wirehead"
+		"Wirehead",
+		"Wrecking Ball"
 	],
 	"greetings": [
 		"'Sup?",
@@ -436,6 +440,7 @@
 		"Bro-sicle!",
 		"Bro-ski!",
 		"Check out these wares",
+		"Cheers love!",
 		"Ciao",
 		"Don't shoot, I have a wife and child",
 		"Excuse me, I'm waiting for someone",
@@ -449,6 +454,7 @@
 		"Halo Apa Kabar",
 		"Heads up!",
 		"Hello",
+		"Hello there!",
 		"Hemlo",
 		"Hey",
 		"Hey Boss!",
@@ -456,6 +462,7 @@
 		"hey buddy",
 		"Hey Chief!",
 		"hey dude",
+		"Hey FRIEND!",
 		"hey kid",
 		"Hey man",
 		"hey mate",
@@ -570,6 +577,7 @@
 		"*shuffles*",
 		"*sighs*",
 		"*sips*",
+		"*slurp slurp*",
 		"*sneeze*",
 		"*sniffs finger*",
 		"*spits*",
@@ -605,6 +613,6 @@
 		"y'know...",
 		"ya...",
 		"yaas",
-		"zzzzz... zzZZZ... ZZZZZZZ"
+		"zzzzz... zzZZZ... ZZZZZZZ",
 	]
 }
